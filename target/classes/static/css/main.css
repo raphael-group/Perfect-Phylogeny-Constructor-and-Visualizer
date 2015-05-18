@@ -1,0 +1,38 @@
+h3 {
+    color: navy;
+    margin-left: 20px;
+}
+
+div {
+	margin : 10px;
+	padding : 5px;
+}
+
+.node {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+.link {
+  stroke: #999;
+  stroke-opacity: .6;
+}
+
+textarea { 
+	white-space: pre; 
+	word-wrap: normal; 
+	overflow-x: scroll; 
+	float:left;
+	height: 200px;
+	width:200px;
+	margin: 5px;
+}
+
+text {
+	-webkit-touch-callout: none;
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+}
